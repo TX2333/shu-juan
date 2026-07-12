@@ -2,7 +2,7 @@
   "expo": {
     "name": "自动跟读听书App",
     "slug": "shujuan-audiobook",
-    "version": "1.0.10",
+    "version": "1.0.11",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
